@@ -5,28 +5,33 @@ let sentenceID = 0
 
 const sentences = [
   {
-    sentence: "Dear love of my life,",
-    options: ["excepturi option", "soluta", "voluptatum minima corrupti"],
+    sentence: "Dear love of my life, what should i call you?",
+    options: ["obim ❤️", "moi sekani ❤️"],
     postfix: "."
   },
   {
-    sentence: "Aperiam, est voluptatum quae facilis optio nesciunt reprehenderit pariatur rem maiores maxime voluptas",
-    options: ["totam in", "deserunt", "repellat pariatur"],
+    sentence: "Since the moment we first met, I have always been joyful. You came into my life not only with love but also with a lot of benefits and concern. You are a good woman who always sticks up for me, rescues me from my foolishness, and understands what to do.",
+    options: ["And there's more"],
     postfix: ","
   },
   {
-    sentence: "voluptates repudiandae eveniet cumque deleniti repellendus iste eaque porro quod earum praesentium",
-    options: ["laboriosam magnam", "reiciendis commodi", "suscipit"],
-    postfix: "?"
+    sentence: "I might never be able to express to your thoughts that you are the one I am constantly thinking about. But there is one thing I can absolutely do, and that is to treat you like the master in my heart, the queen of my palace, the one I think about constantly, the one I have been thinking about, as this realization makes clear. Dreams also provide me a lot of grounds to think that genuine love does exist. I promise to care for the blessings God has bestowed upon me through you and to love you for as long as I live.",
+    options: ["To my imperfections"],
+    postfix: ","
   },
   {
-    sentence: "Repellendus quidem maxime officia sint recusandae soluta delectus aperiam ducimus accusamus suscipit sit vel quas",
-    options: ["dicta eius tempora", "quos tempore", "inventore"],
-    postfix: "."
+    sentence: "Yes, we have misunderstandings, sometimes things seem to fall apart, this is only due to human flaws, trust me the best is yet to come. I love you very much and I will always do. I must admit that my love for you deepens as a result of your decision to spend the rest of your life with me.",
+    options: ["And a important reminder"],
+    postfix: ","
   },
   {
-    sentence: "Ea est voluptatem, quam tempore doloribus impedit voluptas, iusto, sapiente animi consectetur a laboriosam,",
-    options: ["voluptatem aut", "accusamus quis", "beatae nesciunt"],
+    sentence: "This is just a reminder that love has no boundaries. Many mountains will move, many seas will dry, but my evergreen love for you will always bloom, because you are the only one I talk to when I need it, the only one I can trust my life without fear, The one who kept looking at my back in difficult times. Today, I want you to know that there is nothing to return, only my heart, sincerely saying to you: Our love will never end, even in the afterlife.",
+    options: ["And to the final part"],
+    postfix: "!"
+  },
+  {
+    sentence: "you are my Everything. Thank you for being my friend, my lover, my wife and the mother of my children. I love you so much.",
+    options: ["Oyah call me ❤️"],
     postfix: "!"
   },
 ];
