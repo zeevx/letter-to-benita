@@ -26,7 +26,7 @@ const sentences = [
   },
   {
     sentence: "Your personality is like a siren's call, drawing me in with its irresistible charm. Your confidence and wit are such a turn-on, and when you laugh, I swear it's like music to my ears. You're the perfect mix of sweet and spicy, and I can't get enough of it.",
-    options: ["Remember that time we were dancing together"],
+    options: ["Remember that time we were dancing together in feb"],
     postfix: ","
   },
   {
@@ -40,12 +40,12 @@ const sentences = [
     postfix: ".."
   },
   {
-    sentence: "And let's not forget those late-night conversations that turn into something more intimate. The way we bare our souls and share our deepest desires ignites a fire within me that burns like no other. You make me feel safe, understood, and loved in a way I've never known before.",
+    sentence: "And let's not forget those late-night conversations that turn into something more intimate. The way we bare our souls and share our deepest desires ignites a fire within me that burns like no other. You make me feel loved in a way I've never known before.",
     options: ["So, my sexy vixen"],
     postfix: ","
   },
   {
-    sentence: " I want you to know that you drive me wild in the best possible way. You're the woman of my dreams, and I can't wait to continue this passionate journey with you. You've got me hooked, and there's no going back. Here's to a lifetime of love, pleasure, and adventure together.",
+    sentence: " I want you to know that you drive me wild in the best possible way. You're the woman of my dreams, and I can't wait to continue this passionate journey with you. You've got me hooked. Here's to a lifetime of love, pleasure, and adventure together.",
     options: ["Yours, always and forever, Adams ❤️"],
     postfix: "."
   },
