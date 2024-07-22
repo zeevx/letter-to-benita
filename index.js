@@ -25,7 +25,7 @@ const sentences = [
     postfix: "."
   },
   {
-    sentence: "You brought a light into my life that I never knew was missing. Your love, support, and unwavering belief in me have transformed my world. You’ve shown me what it means to have a partner who stands by your side, no matter what. I really love you baby...kai!",
+    sentence: "You brought a light into my life that I never knew was missing. You’ve shown me what it means to have a partner who stands by your side, no matter what. I really love you baby...kai!",
     options: ["Tell me more babe..."],
     postfix: ","
   },
