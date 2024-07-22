@@ -10,42 +10,42 @@ const sentences = [
     postfix: "."
   },
   {
-    sentence: "I've been sitting here trying to put into words how crazy you make me feel, and damn, it's not easy. You just have this way of turning me on with a single look, and it's driving me wild. I hope you're ready for some real talk, 'cause this letter is gonna get steamy.",
-    options: ["Before I become very naughty, i did bad..."],
+    sentence: "I will just get straight to it: before you, I was nothing! I had no career direction, no understanding of what it meant to truly love someone, and no idea of what it felt like to be loved in return. BENITA, you have transformed my life in ways I never thought possible!",
+    options: ["🥹Tell me more babe...?", "🥺Nah, stop eet...!"],
     postfix: ","
   },
   {
-    sentence: "This year hasn't been our best one, and I did bad at handling it, I apologize and will do better, honestly, help me do better 🥹.",
-    options: ["First off"],
+    sentence: "Whether you want to hear me or not, 😁 i don't care... You brought clarity and purpose to my career, guiding me to find my true passion and helping me believe in my potential. More than that, you showed me the depths of love and affection, something I had never experienced before. Your love has given me a sense of belonging and completeness that I didn't even realize I was missing.",
+    options: ["Stop lying babe!", "No joorrr!"],
     postfix: ","
   },
   {
-    sentence: "let me tell you how insanely attracted I am to you. Your body is like a work of art, and I can't get enough of it. From your mesmerizing eyes to your luscious lips, every inch of you drives me crazy. And when you're close to me, I can't help but feel this electrifying chemistry that sets my heart racing.",
-    options: ["But it's not just your looks that get me going"],
+    sentence: "I am very serious my love ❤️, every moment with you has been a revelation. Your kindness, support, and unwavering belief in me have been the pillars on which I’ve rebuilt my life. You’ve made me realize what it means to be truly happy, and for that, I am eternally grateful.",
+    options: ["Tell me more..."],
     postfix: "."
   },
   {
-    sentence: "Your personality is like a siren's call, drawing me in with its irresistible charm. Your confidence and wit are such a turn-on, and when you laugh, I swear it's like music to my ears. You're the perfect mix of sweet and spicy, and I can't get enough of it.",
-    options: ["Remember that time we were dancing together in feb"],
+    sentence: "You brought a light into my life that I never knew was missing. Your love, support, and unwavering belief in me have transformed my world. You’ve shown me what it means to have a partner who stands by your side, no matter what. I really love you baby...kai!",
+    options: ["Tell me more babe..."],
     postfix: ","
   },
   {
-    sentence: "and the way our bodies moved against each other? The heat between us was off the charts, and it's a memory I replay in my mind over and over again. I crave your touch, your caress, and the way you make me feel wanted and desired.",
-    options: ["When we're alone"],
+    sentence: "Oh my! Words are not enough babe, don't worry i am learning to show you more, so yeah, you will see and feel more of it. Pause, i have something i want to address too.",
+    options: ["Okay what's that", "I don't care jare, i just want you."],
     postfix: ","
   },
   {
-    sentence: "the world disappears, and it's just you and me, lost in each other's passion. Our chemistry is explosive, and I love exploring every inch of you, finding those secret spots that make you shiver with pleasure. The way you respond to my touch is a thrill I never want to stop experiencing.",
-    options: ["🍆"],
+    sentence: "I have to tell you. I want to take this moment to apologize for the times we’ve fought and argued. I know there have been moments when I’ve fallen short, and it’s often been you who has had to fight to bring peace between us. I’m sorry for any pain I’ve caused and for not always being the partner you deserve during those difficult times.",
+    options: ["I know baby", "Fuck off!"],
     postfix: ".."
   },
   {
-    sentence: "And let's not forget those late-night conversations that turn into something more intimate. The way we bare our souls and share our deepest desires ignites a fire within me that burns like no other. You make me feel loved in a way I've never known before.",
-    options: ["So, my sexy vixen"],
+    sentence: "I know you don't want me to fuck off 😜. You're patient with me! Your patience, understanding, and love have been a guiding light for me. You’ve shown me what it means to be truly supportive and loving, even in the face of conflict. I promise to do better, to listen more, and to be the partner you deserve every day.",
+    options: ["I love you 10X", "I love you 100X"],
     postfix: ","
   },
   {
-    sentence: " I want you to know that you drive me wild in the best possible way. You're the woman of my dreams, and I can't wait to continue this passionate journey with you. You've got me hooked. Here's to a lifetime of love, pleasure, and adventure together.",
+    sentence: "Anyways, i am satisfied with any! Happy Birthday, my love. Here’s to many more beautiful moments and cherished memories together..",
     options: ["Yours, always and forever, Adams ❤️"],
     postfix: "."
   },
