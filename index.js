@@ -35,7 +35,7 @@ const sentences = [
     postfix: ","
   },
   {
-    sentence: "I have to tell you. I want to take this moment to apologize for the times we’ve fought and argued. I know there have been moments when I’ve fallen short, and it’s often been you who has had to fight to bring peace between us. I’m sorry for any pain I’ve caused and for not always being the partner you deserve during those difficult times.",
+    sentence: "I have to tell you. I want to take this moment to apologize for the times we’ve fought and argued. I know there have been moments when I’ve fallen short, and it’s often been you who has had to fight to bring back the peace between us. I’m sorry for any pain I’ve caused and for not always being the partner you deserve during those difficult times.",
     options: ["I know baby", "Fuck off!"],
     postfix: ".."
   },
