@@ -10,12 +10,12 @@ const sentences = [
     postfix: "."
   },
   {
-    sentence: "I will just get straight to it: before you, I was nothing! I had no career direction, no understanding of what it meant to truly love someone, and no idea of what it felt like to be loved in return. BENITA, you have transformed my life in ways I never thought possible!",
+    sentence: "I will just get straight to it: reflecting on who i was before you, I was nothing! I had no career direction, no understanding of what it meant to truly love someone, and no idea of what it felt like to be loved in return. BENITA, you have transformed my life in ways I never thought possible!",
     options: ["🥹Tell me more babe...?", "🥺Nah, stop eet...!"],
     postfix: ","
   },
   {
-    sentence: "Whether you want to hear me or not, 😁 i don't care... You brought clarity and purpose to my career, guiding me to find my true passion and helping me believe in my potential. More than that, you showed me the depths of love and affection, something I had never experienced before. Your love has given me a sense of belonging and completeness that I didn't even realize I was missing.",
+    sentence: "Yes babe... You brought clarity and purpose to my career, guiding me to find my true passion and helping me believe in my potential. More than that, you showed me the depths of love and affection, something I had never experienced before. Your love has given me a sense of belonging and completeness that I didn't even realize I was missing.",
     options: ["Stop lying babe!", "No joorrr!"],
     postfix: ","
   },
