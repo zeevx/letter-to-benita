@@ -5,22 +5,22 @@ let sentenceID = 0
 
 const sentences = [
   {
-    sentence: "My baby, or what do you prefer?",
-    options: ["Obim ❤️", "Onye Nkem ❤️"],
+    sentence: "Hey baby, it is 2025, what do you prefer?",
+    options: ["Obim ❤️", "Sekani ❤️"],
     postfix: "."
   },
   {
-    sentence: "I will just get straight to it: reflecting on who i was before you, I was nothing! I had no career direction, no understanding of what it meant to truly love someone, and no idea of what it felt like to be loved in return. BENITA, you have transformed my life in ways I never thought possible!",
-    options: ["🥹Tell me more babe...?", "🥺Nah, stop eet...!"],
+    sentence: "This year has been the most challenging for us, it has been the most challenging for me. I have had to un-learn and re-learn you, i have had to learn to love you in a different way, better, greater and with more intentions....and, it is all worth it! Am I sure?",
+    options: ["🥹yes...!", "🥺a solid, yes...!"],
     postfix: ","
   },
   {
-    sentence: "Yes babe... You brought clarity and purpose to my career, guiding me to find my true passion and helping me believe in my potential. More than that, you showed me the depths of love and affection, something I had never experienced before. Your love has given me a sense of belonging and completeness that I didn't even realize I was missing.",
-    options: ["Stop lying babe!", "No joorrr!"],
+    sentence: "Yes babe... We are meant for each other, I am meant for you and you are meant for me. I have not been my best when we argue, in fact I have been my worst this year, but I am willing to make it work because it is you I want to spend my life with, it is you I want to build a family with, it is you I want to call my wife.",
+    options: ["Stop lying babe!", "Are you sure??"],
     postfix: ","
   },
   {
-    sentence: "I am very serious my love ❤️, every moment with you has been a revelation. Your kindness, support, and unwavering belief in me have been the pillars on which I’ve rebuilt my life. You’ve made me realize what it means to be truly happy, and for that, I am eternally grateful.",
+    sentence: "I am very serious my love ❤️, I am sure! No lies! Every moment with you has been a revelation. Your kindness, support, and unwavering belief in me and us has kept us and has brought us this far, I am weak and you are my strength, for this...I am eternally grateful.",
     options: ["Tell me more..."],
     postfix: "."
   },
@@ -30,22 +30,22 @@ const sentences = [
     postfix: ","
   },
   {
-    sentence: "Oh my! Words are not enough babe, don't worry i am learning to show you more, so yeah, you will see and feel more of it. Pause, i have something i want to address too.",
+    sentence: "Oh wow, words can’t even express how I feel, babe. But don’t worry, I’m learning to show it more through my actions. You’ll see it, and you’ll feel it. Hold on though, there’s something I’d like to address too.",
     options: ["Okay what's that", "I don't care jare, i just want you."],
     postfix: ","
   },
   {
-    sentence: "I have to tell you. I want to take this moment to apologize for the times we’ve fought and argued. I know there have been moments when I’ve fallen short, and it’s often been you who has had to fight to bring back the peace between us. I’m sorry for any pain I’ve caused and for not always being the partner you deserve during those difficult times.",
+    sentence: "I know, yes, I know, I always apologize, and the truth is...I always will baby, I always will try to be better for you and us. So, I want to take this moment to apologize for the times we’ve argued. I know there have been moments when I’ve fallen short, and it’s often been you who has had to fight to bring back the peace between us. I’m sorry for any pain I’ve caused and for not always being the partner you deserve during those difficult times.",
     options: ["I know baby", "Fuck off!"],
     postfix: ".."
   },
   {
-    sentence: "I know you don't want me to fuck off 😜. You're patient with me! Your patience, understanding, and love have been a guiding light for me. You’ve shown me what it means to be truly supportive and loving, even in the face of conflict. I promise to do better, to listen more, and to be the partner you deserve every day.",
+    sentence: "I know you don't want me to fuck off 😜. You're always patient with me! Your patience, understanding, and love have been a guiding light for me. You’ve shown me what it means to be truly supportive and loving, even in the face of conflict. I promise to do better 100X , to listen more 100X, and to be the partner you deserve every day.",
     options: ["I love you 10X", "I love you 100X"],
     postfix: ","
   },
   {
-    sentence: "Anyways, i am satisfied with any! Happy Birthday, my love. Here’s to many more beautiful moments and cherished memories together..",
+    sentence: "Anyways, i am satisfied with any! Happy Birthday, my love, every moment with you feels like a dream I never want to wake up from, and today I celebrate not just your beautiful birth but the incredible light you bring into my life, now and always.",
     options: ["Yours, always and forever, Adams ❤️"],
     postfix: "."
   },
